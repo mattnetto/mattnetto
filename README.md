@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a Software Engineer passionate about technologies and challenges. I'm from Brazil and currently working at [corel.com](https://corel.com) as a Lead Software Engineer.
+I am a Software Engineer passionate about technologies and challenges.
+ 
+I'm from Brazil and currently working at [corel.com](https://corel.com) as a Lead Software Engineer.
 
 Find me elsewhere 🌎
   
